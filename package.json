@@ -1,0 +1,17 @@
+{
+  "name": "cfw-transform-stream",
+  "version": "1.0.0",
+  "description": "CloudFlare Worker Transform Stream for XML Sitemaps",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Albion Venables",
+  "license": "ISC",
+  "dependencies": {
+    "feedparser": "^2.2.10"
+  },
+  "devDependencies": {
+    "rollup-plugin-node-polyfills": "^0.2.1"
+  }
+}
